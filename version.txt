@@ -6,3 +6,10 @@ Author: Kevin
 - Initial release
 - Main branch created
 - Core setup complete
+
+
+[VERSION 2.0 - FEATURE BRANCH]
+- This line & code block is written after creation of child branch
+- Added user authentication notes
+- Status: In development on child branch
+- Created: November 2026
