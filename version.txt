@@ -13,3 +13,8 @@ Author: Kevin
 - Added user authentication notes
 - Status: In development on child branch
 - Created: November 2026
+
+[VERSION 3.0 - Branch OFF COPY2]
+- Testing merge into Copy2 from Copy3
+- Status: Ready to merge into branch 2
+- aaaaaaaaaaaaaa bbbbbbbb cccccccc
